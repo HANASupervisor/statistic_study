@@ -35,5 +35,3 @@ for testCase in range(1, T+1):
 # 3
 # 4
 # 5
-
-
